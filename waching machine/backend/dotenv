@@ -1,0 +1,6 @@
+PORT =3000
+
+
+
+
+MONGODB_URI = "mongodb+srv://skhanal2051:FbdDPhiqpVnJNHTr@washingmachine.w0xcu1e.mongodb.net/?retryWrites=true&w=majority&appName=WashingMachine"
